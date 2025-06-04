@@ -33,24 +33,24 @@ You can test the API using [Postman](https://www.postman.com/):
 
 ### Create Post
 
- URL: `http://localhost:8000/posts/
+ URL: http://localhost:8000/posts/
 
 
 ### Get All Posts
 
- URL: `http://localhost:8000/posts/
+ URL: http://localhost:8000/posts/
 
 ### Get a Post by ID
 
- URL: `http://localhost:8000/posts/1
+ URL: http://localhost:8000/posts/1
 
 ### Update a Post
 
-URL: `http://localhost:8000/posts/1
+ URL: http://localhost:8000/posts/1
 
 ### Delete a Post
 
- URL: `http://localhost:8000/posts/1`
+ URL: http://localhost:8000/posts/1`
 
 ---
 

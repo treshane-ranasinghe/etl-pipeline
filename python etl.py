@@ -5,7 +5,6 @@ from pymongo import MongoClient
 data = pd.read_csv('sales_data_sample.csv', encoding='ISO-8859-1')
 
 
-# Optional: Remove _id if exists to avoid conflict
 if '_id' in data.columns:
     data = data.drop(columns=['_id'])
 

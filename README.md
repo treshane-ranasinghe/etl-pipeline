@@ -50,9 +50,8 @@ You can test the API using [Postman](https://www.postman.com/):
 
 ### Delete a Post
 
- URL: http://localhost:8000/posts/1`
+ URL: http://localhost:8000/posts/1
 
----
 
 ## ⚙️ Running the ETL Pipeline
 

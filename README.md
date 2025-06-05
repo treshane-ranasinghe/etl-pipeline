@@ -53,7 +53,7 @@ You can test the API using [Postman](https://www.postman.com/):
  URL: http://localhost:8000/posts/1
 
 
-## ⚙️ Running the ETL Pipeline
+## Running the ETL Pipeline
 
 This script extracts data from the FastAPI /posts endpoint and loads it into a PostgreSQL data warehouse.
 
